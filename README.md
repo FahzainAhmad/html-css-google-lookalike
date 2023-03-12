@@ -5,8 +5,9 @@ Live view : <a href="https://ndr4szqanmqia47zanlvcq.on.drv.tw/Bubble%20-%20Respo
 <h2>Features 🚀</h2>
 
 <ul>
-  <li>Minimalistic and modern design of the page</li>
+  <li>Both mobile and desktop view mimic Google's home page</li>
   <li>Clean and neat interface</li>
+  <li>Mobile-First design</li>
   <li>100% responsive design using <strong>Media Queries</strong> </li>
   <li>Built with Plain HTML and CSS</li>
 </ul>
